@@ -1,6 +1,5 @@
 {
   "name": "landingwebpack",
-  "homepage": "https://nelermont.github.io/LandingWebpack/",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
