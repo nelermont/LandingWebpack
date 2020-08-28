@@ -16,7 +16,7 @@
 Перед началом работы проверьте наличие установленного node.js и npm
 
 # Склонируйте репозиторий
-git clone https://github.com/kravcov7/sprint11.git
+git clone https://github.com/nelermont/LandingWebpack
 
 # Установите зависимости:
 npm install
