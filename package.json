@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/nelermont/LandingWebpack.git"
   },
-  "author": "",
+  "author": "nelermont",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nelermont/LandingWebpack/issues"
@@ -50,5 +50,5 @@
     "production": "0.0.2",
     "style-loader": "^1.2.1"
   },
-  "description": ""
+  "description": "sprint 11 Yandex.Praktikum"
 }
