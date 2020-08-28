@@ -37,7 +37,6 @@ export class Api {
             .then((res) => this._getResponseData(res));
     }
 
-
     creatTask(name, link) {
         return fetch(`${this.url}/cards`, {
             method: 'POST',
