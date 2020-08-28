@@ -3,6 +3,8 @@
 
 Ссылка - https://nelermont.github.io/LandingWebpack/
 
+# v.0.0.2
+
 # Используемые технологии:
  - HTML;
  - CSS;
