@@ -37,6 +37,10 @@ export class Api {
             .then((res) => this._getResponseData(res));
     }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 02e7fa214c9c96afedb2eaf93ca013ac69535af9
     creatTask(name, link) {
         return fetch(`${this.url}/cards`, {
             method: 'POST',
